@@ -1,6 +1,6 @@
 # Godot C++ CMake Template
 
-A GD Extension plugin based on godot-cpp, using the CMake build system and vcpkg.
+A template for GDExtension plugins based on godot-cpp. It uses CMake buildsystem and is compatible with vcpkg.
 
 ## Adding document for the plugin
 
